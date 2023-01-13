@@ -1,0 +1,69 @@
+.textDiv {
+  margin-top: 0px;
+  background-color: #ad9be9;
+  width: 700px;
+  height: 90px;
+  border-radius: 12px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.textcub {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  margin: 0px 0px 0px -24px;
+  width: 84px;
+  height: 90px;
+  background: #2a2a2a;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 0px;
+  gap: 5px;
+}
+
+.span1 {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.span2 {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.span3 {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.li {
+  position: absolute;
+  margin: -55px 0px 0px 75px;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  list-style: none;
+}
+
+.dol {
+  margin: -65px 0px 0px 530px;
+  width: 112px;
+  height: 44px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  background-color: #40005d;
+  list-style: none;
+}
+
+.textDol {
+  margin: 8px 0px 0px 20px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+}

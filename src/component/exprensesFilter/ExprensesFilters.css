@@ -1,0 +1,25 @@
+.ExprensesFilter_conteiner_label_select {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ExprensesFilter_conteiner_label {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.ExprensesFilter_conteiner_select {
+  display: flex;
+  border-radius: 6px;
+  padding: 10px 15px 10px 20px;
+  gap: 20px;
+  outline: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+option {
+  border-radius: 6px;
+  font-size: 18px;
+}
