@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-5__filter/static/css/main.cecc11c9.css",
+    "main.js": "/hw-5__filter/static/js/main.e27601e0.js",
+    "index.html": "/hw-5__filter/index.html",
+    "main.cecc11c9.css.map": "/hw-5__filter/static/css/main.cecc11c9.css.map",
+    "main.e27601e0.js.map": "/hw-5__filter/static/js/main.e27601e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cecc11c9.css",
+    "static/js/main.e27601e0.js"
+  ]
+}
